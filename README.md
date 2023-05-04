@@ -23,3 +23,8 @@ Freecam controls:
 - E:    Drop
 - Shift:    Move faster
 - Control:    Move slower
+
+## Behind the Scene
+Press C in Animetic mode to see how cels are used to create the Animetic effect.
+
+![Behind The Scene Demo](images/behindthescene.gif)
